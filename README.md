@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muneeb</h1>
-<h3 align="center">A passionate Full Stack Developer with an interest in AI</h3>
+<h3 align="center">A passionate Full Stack Web Developer with an interest in AI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mu-nae&label=Profile%20views&color=0e75b6&style=flat" alt="mu-nae" /> </p>
 
