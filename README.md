@@ -1,11 +1,4 @@
-<h1 align="center">Hi!</h1>
 
-
-<p align="left"> <a href="https://twitter.com/mu_sahaf" target="blank"><img src="https://img.shields.io/twitter/follow/mu_sahaf?logo=twitter&style=for-the-badge" alt="mu_sahaf" /></a> </p>
-
-- 🔭 I’m currently working at **Jibble.io**
-
-- 📝 I regularly write articles on [https://westoflahore.blogspot.com/](https://westoflahore.blogspot.com/)
 
 
 <h3 align="left">Connect with me:</h3>
